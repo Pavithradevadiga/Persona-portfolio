@@ -1,0 +1,162 @@
+html,body{
+  min-height: 100%;
+}
+body{
+   background-image: url('https://res.cloudinary.com/dgiguwrz1/image/upload/v1526109196/blue-moving-flowing-abstract-waves-on-white-background-blurred-smooth-graphic-motion-design-video-animation-1920x1080_vhhueydte__F0000.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.nav_li a{
+  text-decoration: none;
+  color: darkgreen;
+  font-family: 'Aclonica';
+}
+.nav_li a:hover{
+  font-size: 80%;
+  color: blue;
+}
+.nav_li li{
+  display: inline;
+  padding: 35px;
+  font-size: 25px;
+}
+header{
+  background: black;
+  height: 50px;
+  margin: 0px;
+   position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.welcome img{
+  border: 10px solid lightblue;
+  border-radius: 50%;
+  width: 300px;
+  margin-top: 5px;
+  margin-left: 390px;
+    float: left;
+}
+.welcome img:hover{
+  transform: scale(1.2);
+}
+h1{
+  padding-top: 50px;
+  text-align: center;
+  color: #50c878;
+  font-family: cherry swash;
+}
+h2{
+  padding-top: 2px;
+  text-align: center;
+  color: #50c878;
+  font-size: 30px;
+  padding-top: 60px; 
+  font-family: cherry swash;
+}
+h3{
+  padding-top: 200px;
+  padding-left: 30px;
+  font-size: 30px;
+  color: #7FFF00;
+}
+.project_img{
+  height: 300px;
+  width: 300px;
+}
+
+.project a{
+  text-decoration: none;
+}
+.projectile img{
+  height: 300px;
+  width: 500px;
+}
+.polaroid { 
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 45, 0.2), 0 6px 20px 0 rgba(0, 0, 45, 0.19);
+  margin-bottom: 25px;
+  width: 38%;
+  height: 380px;
+  background-color: lightblue;
+}
+.container {
+  text-align: left;
+  font-family: 'jim nightshade';
+  font-size: 30px;
+  color: clue;
+}
+.polaroid1 { 
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  width: 40%;
+  height: 400px;
+  margin-left: 300px;
+  background: lightblue;
+}
+.polaroid3 { 
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  width: 40%;
+  height: 400px;
+  margin-left: 600px;
+  background: lightblue;
+}
+.polaroid4 { 
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  width: 40%;
+  height: 400px;
+  margin-left: 800px;
+  background: lightblue;
+}
+.profile p{
+  font-size: 30px;
+}
+.profile a{
+  text-decoration: none;
+  Color: darkgreen;
+  font-weight: bold;
+  font-size: 20px;
+}
+.profile a:hover{
+  color: black;
+}
+.mail p{
+  color: Blue;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: overline;
+}
+input[type='email']
+{
+  width: 300px;
+  margin-left: 300px;
+  backgound-color: blue;
+  border-radius: 12px;
+  padding: 4px;
+}
+input[type='submit']
+{
+  width: 70px;
+  margin-left: 400px;
+  border: 2px solid green;
+  border-radius: 12px;
+  padding: 4px;
+  margin-top: 4px;
+  font-size: 20px;
+}
+.last{
+  text-align: center;
+  font-size: 40px;
+  font-family : tahoma;
+  font-weight: bold;
+}
+.l{
+  font-size: 20px;
+  color: blue;
+  font-weight: blue;
+}
